@@ -6,4 +6,8 @@ public class Class {
 System.out.println("Hello world");
 	}
 
+	
+	public void b1() {
+		System.out.println("added code here..!");
+	}
 }
